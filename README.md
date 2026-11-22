@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1F,35:101D3D,70:173B70,100:0A1630&height=230&section=header&text=AHLEM%20KHILA&fontSize=54&fontColor=F0F6FF&fontAlignY=42&desc=✦%20IT%20STUDENT%20%20%7C%20DEVELOPER%20%20%7C%20CREATIVE%20MIND%20✦&descSize=15&descAlignY=67&descColor=7DD3FC&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" />
+<img src="./assets/banner.svg" width="100%" alt="AHLEM KHILA — IT Student | Developer | Creative Mind" />
 
 </div>
 
