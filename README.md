@@ -1,10 +1,10 @@
+
 <div align="center">
 
-<!-- Header banner -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10111B,50:20243A,100:10111B&height=180&section=header&text=AHLEM%20KHILA&fontSize=42&fontColor=FFFFFF&fontAlignY=48&desc=IT%20Student%20%7C%20Developer%20%7C%20Creative%20Mind&descSize=15&descAlignY=72&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,40:171C32,75:252B45,100:0B0F19&height=220&section=header&text=AHLEM%20KHILA&fontSize=48&fontColor=F8FAFC&fontAlignY=43&desc=✦%20IT%20STUDENT%20%20%7C%20DEVELOPER%20%20%7C%20CREATIVE%20MIND%20✦&descSize=14&descAlignY=66&descColor=A5B4FC&animation=fadeIn&stroke=6366F1&strokeWidth=1" width="100%" />
 
 </div>
+
 
 
 
