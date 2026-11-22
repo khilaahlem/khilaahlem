@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+<img src="pic1.jpeg" width="100%" />
 
 </div>
 
