@@ -27,7 +27,7 @@ const ahlem = {
 };
 ```
 <div align="center">
-<img src="cute-coding.svg" width="92%" alt="Cute cat coding: Learn. Build. Improve." />
+<img src="vibe-coding.svg" width="92%" alt="Pixel art developer vibe coding at night">
 </div>
 
 </td>
