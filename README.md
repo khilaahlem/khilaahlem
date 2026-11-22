@@ -1,13 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,40:171C32,75:252B45,100:0B0F19&height=220&section=header&text=AHLEM%20KHILA&fontSize=48&fontColor=F8FAFC&fontAlignY=43&desc=✦%20IT%20STUDENT%20%20%7C%20DEVELOPER%20%20%7C%20CREATIVE%20MIND%20✦&descSize=14&descAlignY=66&descColor=A5B4FC&animation=fadeIn&stroke=6366F1&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1F,35:101D3D,70:173B70,100:0A1630&height=230&section=header&text=AHLEM%20KHILA&fontSize=54&fontColor=F0F6FF&fontAlignY=42&desc=✦%20IT%20STUDENT%20%20%7C%20DEVELOPER%20%20%7C%20CREATIVE%20MIND%20✦&descSize=15&descAlignY=67&descColor=7DD3FC&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" />
 
 </div>
-
-
-
-
 
 
 </td>
