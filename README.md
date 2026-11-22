@@ -1,7 +1,7 @@
 <!-- BANNER -->
 <div align="center">
 
-<img src="pic1.jpeg" width="100%" />
+<img src="pic1.jpeg" width="10%" />
 
 </div>
 
