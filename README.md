@@ -6,21 +6,6 @@
 
 </div>
 
-<table>
-<tr>
-<td width="34%" valign="top">
-
-<div align="center">
-
-<img src="https://github.com/khilaahlem.png" width="150" style="border-radius:50%;" alt="Ahlem Khila's GitHub avatar" />
-
-Ahlem Khila
-
-IT Student · Developer
-
-</div>
-
-────────
 
 
 </td>
