@@ -75,7 +75,6 @@ const ahlem = {
 <img width="49%" src="https://streak-stats.demolab.com?user=khilaahlem&theme=transparent&hide_border=true" alt="GitHub streak">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khilaahlem&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=khilaahlem&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top contributed repositories">
 </div>
 
 ────────
@@ -85,6 +84,5 @@ const ahlem = {
 
 “Somewhere between a curious mind and a creative soul.”
 
-<img src="https://komarev.com/ghpvc/?username=khilaahlem&style=flat-square&color=8B7CF6&label=Profile%20views" alt="Profile views">
 
 </div>
