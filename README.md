@@ -28,7 +28,7 @@ const ahlem = {
 ```
 
 <div align="center">
-<img src="./assets/cute-coding.svg" width="92%" alt="Cute cat coding: Learn. Build. Improve." />
+<img src="cute-coding.svg" width="92%" alt="Cute cat coding: Learn. Build. Improve." />
 </div>
 
 </td>
