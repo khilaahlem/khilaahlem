@@ -1,9 +1,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,40:171C32,75:252B45,100:0B0F19&height=220&section=header&text=AHLEM%20KHILA&fontSize=48&fontColor=F8FAFC&fontAlignY=43&desc=✦%20IT%20STUDENT%20%20%7C%20DEVELOPER%20%20%7C%20CREATIVE%20MIND%20✦&descSize=14&descAlignY=66&descColor=A5B4FC&animation=fadeIn&stroke=6366F1&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:1B2333,100:0D1117&height=190&section=header&text=Ahlem%20Khila&fontSize=44&fontColor=E6EDF3&fontAlignY=45&desc=Building%20ideas%20into%20reality%20%7C%20One%20commit%20at%20a%20time&descSize=13&descAlignY=68&descColor=94A3B8&animation=fadeIn" width="100%" />
 
 </div>
+
 
 
 
