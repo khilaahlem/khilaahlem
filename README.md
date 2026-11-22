@@ -28,8 +28,8 @@ const ahlem = {
 ```
 
 <div align="center">
-<img src="[cute-coding.svg" width="92%" alt="Cute cat coding: Learn. Build. Improve.](https://giphy.com/gifs/cc0studios-mfer-normal-vibe-coding-H03PuVdwREB21ANkLX)" />
-</div>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="92%" alt="Developer working at a computer](https://giphy.com/gifs/cc0studios-mfer-normal-vibe-coding-H03PuVdwREB21ANkLX)">
+</div> 
 
 </td>
 </tr>
