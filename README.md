@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="AHLEM KHILA — IT Student | Developer | Creative Mind" />
+<img src="banner.svg" width="100%" alt="AHLEM KHILA — IT Student | Developer | Creative Mind" />
 
 </div>
 
