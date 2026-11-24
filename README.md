@@ -34,7 +34,7 @@ const ahlem = {
 </tr>
 </table>
 
-────────
+
 
 ✦ Tech Stack
 
@@ -63,19 +63,7 @@ const ahlem = {
   <img src="https://skillicons.dev/icons?i=arduino,cisco,oracle,npm,numpy,pandas" alt="Other technologies">
 </p>
 
-────────
 
-✦ GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khilaahlem&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats">
-<img width="49%" src="https://streak-stats.demolab.com?user=khilaahlem&theme=transparent&hide_border=true" alt="GitHub streak">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khilaahlem&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
-</div>
-
-────────
 
 
 <div align="center">
